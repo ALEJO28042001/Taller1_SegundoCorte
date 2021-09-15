@@ -50,7 +50,7 @@ public class Modelo {
             for (int i = 0; i < arreglo.length; i++) {
                 resultado += arreglo[i];
             }
-
+            //Un cambio
             return replaceString(resultado, it-1);
         }
 
