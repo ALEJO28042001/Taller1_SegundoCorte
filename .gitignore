@@ -181,9 +181,8 @@ Temporary Items
 .apdisk
 
 #Miguel
-.idea/runConfigurations.xml
-.idea/misc.xml
 
+.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,intellij+iml,eclipse
 
